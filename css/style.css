@@ -6,3 +6,13 @@
       color: white;
 
     }
+
+    .ori{
+      background-color: red;
+    }
+
+    #id{
+      background-color: blue;
+      text-align: center;
+      font-size: larger;
+    }
