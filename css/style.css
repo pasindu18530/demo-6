@@ -4,6 +4,7 @@
       background-color: aqua;
       text-align: center;
       color: white;
+      margin-top: 50px;
 
     }
 
@@ -41,4 +42,20 @@
 
      z-index: -1;
       
+    }
+
+    .link{
+      background-color: blue;
+      color: white;
+      padding: 20px;
+      text-decoration: none;
+    }
+
+    .link:hover{
+      background-color: blueviolet;
+      font-size: larger;
+    }
+    .link:active{
+      color: aqua;
+      background-color: black;
     }
